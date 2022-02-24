@@ -1,4 +1,4 @@
-## Welcome to my FreeCodeCamp learning repo! :chick
+## Welcome to my FreeCodeCamp learning repo! :hatching-chick:
 
 I'm using this repo to keep track of my solutions and notes across devices. 
 
